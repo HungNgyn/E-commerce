@@ -309,4 +309,5 @@ fd826e7cf63160e536e0908c76c3f441|	addec96d2e059c80c30fe6871d30d177|	4534|	sao pa
 
 ---
 
-# A. [Data Exploration and Cleansing]
+# A.[Data Exploration and Cleaning] (https://github.com/HungNgyn/E-commerce/blob/main/Data%20Exploration%20%26%20Cleaning.md)
+# B.[Analysis] (https://github.com/HungNgyn/E-commerce/blob/main/B.%20Analysis.md)
