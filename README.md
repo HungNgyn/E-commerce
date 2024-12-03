@@ -101,4 +101,35 @@ The **sales over time graph** showcases an **upward trend**, particularly from *
 
 The **peaks in 2017 and 2018** suggest **seasonal spikes**, likely driven by **promotions, holiday sales**, or **key retail events**.
 
-## 2. Product
+## 2. Sale and Product
+
+![image](Image/Product.png)
+
+### Top-Selling Product Categories
+
+The category **Bed, Bath & Table** leads with **13.7K products sold**, generating a total revenue of **1.04M Brazilian Real**, reflecting its popularity and significant contribution to overall sales.
+
+Following closely, **Furniture & Decor** recorded **11.5K sales**, yielding **0.73M Brazilian Real**, showing consistent demand for home-related products. Despite ranking second in sales, it generates relatively lower revenue, possibly due to lower price points or frequent discounts.
+
+**Health & Beauty** achieved **1.26M Brazilian Real** in revenue from **11.1K units sold**, marking it as the most lucrative category despite being third in volume, likely due to higher average product prices. While Health & Beauty ranks third in sales volume, its **1.26M revenue** demonstrates that consumers are willing to pay more for these products, indicating a focus on quality or premium offerings.
+
+**Sports & Leisure** and **Computers & Accessories** also performed well, each contributing **9.9K units sold**, with revenue of **0.99M** and **0.91M Brazilian Real**, respectively, showcasing a balanced product portfolio.
+
+### Monthly Trends
+
+The Top 4 Product Categories (**Bed, Bath & Table**, **Furniture & Decor**, **Health & Beauty**, **Sports & Leisure**) exhibit consistent sales throughout the year.
+
+Peaks are observed in **November** and **December**, likely driven by holiday seasons, sales promotions, and heightened consumer spending, especially for Health & Beauty and Bed, Bath & Table categories.
+
+### Geographical Sales Distribution
+
+The treemap highlights **São Paulo (SP)** as the leading state, contributing **14.67M Brazilian Real**, emphasizing its role as the primary consumer market.
+
+Other significant contributors include **Rio de Janeiro (RJ)** with **5.48M** and **Minas Gerais (MG)** with **3.96M**.
+
+### Insights
+The dominance of home goods, personal care, and leisure products suggests consumer focus on lifestyle and well-being. Targeted marketing for premium products in high-revenue categories like **Health & Beauty** and leveraging seasonal sales spikes could further optimize revenue potential.
+
+## 3. Orders
+![image](Image/Orders.png)
+
