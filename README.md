@@ -133,3 +133,37 @@ The dominance of home goods, personal care, and leisure products suggests consum
 ## 3. Orders
 ![image](Image/Orders.png)
 
+### **Total Orders**:
+
+The total number of orders is **96K**, with **99.99%** of those orders being successfully delivered and only **0.01%** canceled.
+
+The very low cancellation rate reflects a stable system in terms of order completion and customer satisfaction.
+
+### **Late Orders**:
+
+The "**Total Late Orders**" graph displays the trend of delayed orders over time. We can observe periodic peaks in late orders, particularly in **2017** and **2018**, where some months had significantly more late orders compared to others.
+
+For example, **November 2017** shows a notable spike of **904 late orders**, followed by peaks in **March 2018 (1328 late orders)** and **May 2018 (443 late orders)**.
+
+These fluctuations could be tied to specific periods such as holiday seasons, which often have higher order volumes, and operational issues that delayed delivery.
+
+### **State-Based Delivery Time**:
+
+The "**Average Delivery Time by State**" chart highlights that **RR** has the highest average delivery time (**29 days**), followed by **AP (27 days)** and **AM (26 days)**.
+
+This suggests that deliveries in some states are consistently taking longer than others, possibly due to factors such as infrastructure challenges, distance, or logistics inefficiencies.
+
+### **Geographical Distribution of Orders**:
+
+The "**Total Orders by State**" shows that **São Paulo (SP)** has the highest number of orders with **40.5K** orders, followed by **Minas Gerais (MG)** with **12.35K** and **Rio de Janeiro (RJ)** with **11.36K**.
+
+These states are major consumer hubs in Brazil, explaining their high order counts. Understanding this distribution helps in focusing operational resources in key markets.
+
+### **Insights**:
+
+The **high number of late orders** in specific months could indicate a need to improve **logistical efficiency**, especially during **peak periods**. 
+
+The **longer delivery times** in some states suggest potential areas for improvement in **regional logistics** or **delivery networks**.  
+
+**São Paulo**, being the highest in order volume, could be **a key focus** for improving **customer experience** and addressing **late deliveries**.
+
