@@ -168,6 +168,8 @@ The **longer delivery times** in some states suggest potential areas for improve
 **São Paulo**, being the highest in order volume, could be **a key focus** for improving **customer experience** and addressing **late deliveries**.
 
 ## 4. Customer Transaction
-![image](Image/Customer Transaction.png)
+![image](Image/Customer_Transaction.png)
 
 
+## 5. Customer Satisfaction
+![image](Image/Customer_Satisfaction.png)
