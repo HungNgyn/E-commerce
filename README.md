@@ -77,5 +77,29 @@ Provide Customer Information
 - customer_city: City name of customer 
 - customer_state: State name of customer
 
-## Analysis
-# 1. Overall 
+# Analysis
+## 1. Overall 
+![image](Image/Overall.png)
+
+### Performance and Customer Engagement
+With about **100,000 orders** by Brazilians, there are **135K products purchased**, revealing the marketplace's wide variety of items.
+
+The **40M Brazilian Real in revenue** highlights a thriving e-commerce platform, reflecting the **growing acceptance of online shopping** in Brazil, especially during the **2016-2018** period.
+
+The **4.02 review score** indicates that while customers are generally satisfied with their purchases, there is room for improvement. The relatively high number of **48K comments** shows that customers are actively engaging with the platform, providing feedback that can be used to enhance **customer experience, product offerings**, and **services**.
+
+### Geographical Insights
+Analyzing the top five states by order volume, **São Paulo** stands out with **17K orders**, reflecting the state's **larger population** and **economic activity**. The dominance of **São Paulo** and **Rio de Janeiro** suggests these areas are the **primary consumer markets for Olist**, likely due to **higher disposable income** and a **more developed logistics network**.
+
+Conversely, the **bottom five states** (RO, AM, AC, AP, and RR) show a much lower volume of orders. These states, typically **less populated** and **geographically more isolated**, present challenges in reaching consumers.
+
+### Product Trends
+The **top-selling product categories** such as **Bed, Bath & Table**, **Furniture & Decor**, and **Health & Beauty** dominate the sales figures. This suggests that Brazilian consumers are investing in **home goods** and **personal care products**.
+
+### Sales Trends Over Time
+The **sales over time graph** showcases an **upward trend**, particularly from **mid-2017 to 2018**, where sales consistently surpass **6K products per month**. This growth aligns with the overall **expansion of the e-commerce sector** in Brazil during that period, driven by **increased internet penetration**, **improved mobile access**, and **changing consumer shopping habits**.
+
+The **peaks in 2017 and 2018** suggest **seasonal spikes**, likely driven by **promotions, holiday sales**, or **key retail events**.
+
+## 2. Product
+
