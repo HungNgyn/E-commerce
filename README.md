@@ -102,4 +102,3 @@ The **sales over time graph** showcases an **upward trend**, particularly from *
 The **peaks in 2017 and 2018** suggest **seasonal spikes**, likely driven by **promotions, holiday sales**, or **key retail events**.
 
 ## 2. Product
-
