@@ -111,51 +111,51 @@ The category **Bed, Bath & Table** leads with **13.7K products sold**, generatin
 
 Following closely, **Furniture & Decor** recorded **11.5K sales**, yielding **0.73M Brazilian Real**, showing consistent demand for home-related products. Despite ranking second in sales, it generates relatively lower revenue, possibly due to lower price points or frequent discounts.
 
-**Health & Beauty** achieved **1.26M Brazilian Real** in revenue from **11.1K units sold**, marking it as the most lucrative category despite being third in volume, likely due to higher average product prices. While Health & Beauty ranks third in sales volume, its **1.26M revenue** demonstrates that consumers are willing to pay more for these products, indicating a focus on quality or premium offerings.
+**Health & Beauty** achieved **1.26M Brazilian Real** in revenue from **11.1K units sold**, marking it as the most lucrative category despite being third in volume, likely due to higher average product prices. While **Health & Beauty** ranks third in sales volume, its **1.26M revenue** demonstrates that consumers are willing to pay more for these products, indicating a focus on quality or premium offerings.
 
 **Sports & Leisure** and **Computers & Accessories** also performed well, each contributing **9.9K units sold**, with revenue of **0.99M** and **0.91M Brazilian Real**, respectively, showcasing a balanced product portfolio.
 
 ### Monthly Trends
 
-The Top 4 Product Categories (**Bed, Bath & Table**, **Furniture & Decor**, **Health & Beauty**, **Sports & Leisure**) exhibit consistent sales throughout the year.
+The Top 4 Product Categories (Bed, Bath & Table, Furniture & Decor, Health & Beauty, Sports & Leisure) exhibit consistent sales throughout the year.
 
-Peaks are observed in **November** and **December**, likely driven by holiday seasons, sales promotions, and heightened consumer spending, especially for Health & Beauty and Bed, Bath & Table categories.
+Peaks are observed in November and December, likely driven by holiday seasons, sales promotions, and heightened consumer spending, especially for Health & Beauty and Bed, Bath & Table categories.
 
 ### Geographical Sales Distribution
 
-The treemap highlights **São Paulo (SP)** as the leading state, contributing **14.67M Brazilian Real**, emphasizing its role as the primary consumer market.
+The treemap highlights São Paulo (SP) as the leading state, contributing 14.67M Brazilian Real, emphasizing its role as the primary consumer market.
 
-Other significant contributors include **Rio de Janeiro (RJ)** with **5.48M** and **Minas Gerais (MG)** with **3.96M**.
+Other significant contributors include Rio de Janeiro (RJ) with 5.48M and Minas Gerais (MG) with 3.96M.
 
 ### Insights
-The dominance of home goods, personal care, and leisure products suggests consumer focus on lifestyle and well-being. Targeted marketing for premium products in high-revenue categories like **Health & Beauty** and leveraging seasonal sales spikes could further optimize revenue potential.
+The dominance of home goods, personal care, and leisure products suggests consumer **focus on lifestyle and well-being**. **Targeted marketing** for premium products in high-revenue categories like **Health & Beauty** and leveraging seasonal sales spikes could further optimize revenue potential.
 
 ## 3. Orders
 ![image](Image/Orders.png)
 
 ### **Total Orders**:
 
-The total number of orders is **96K**, with **99.99%** of those orders being successfully delivered and only **0.01%** canceled.
+The total number of orders is 96K, with 99.99% of those orders being successfully delivered and only 0.01% canceled.
 
 The very low cancellation rate reflects a stable system in terms of order completion and customer satisfaction.
 
 ### **Late Orders**:
 
-The "**Total Late Orders**" graph displays the trend of delayed orders over time. We can observe periodic peaks in late orders, particularly in **2017** and **2018**, where some months had significantly more late orders compared to others.
+We can observe periodic peaks in late orders, particularly in 2017 and 2018, where some months had significantly more late orders compared to others.
 
-For example, **November 2017** shows a notable spike of **904 late orders**, followed by peaks in **March 2018 (1328 late orders)** and **May 2018 (443 late orders)**.
+For example, November 2017 shows a notable spike of 904 late orders, followed by peaks in March 2018 (1328 late orders) and May 2018 (443 late orders).
 
 These fluctuations could be tied to specific periods such as holiday seasons, which often have higher order volumes, and operational issues that delayed delivery.
 
 ### **State-Based Delivery Time**:
 
-The "**Average Delivery Time by State**" chart highlights that **RR** has the highest average delivery time (**29 days**), followed by **AP (27 days)** and **AM (26 days)**.
+RR has the highest average delivery time (29 days), followed by AP (27 days) and AM (26 days).
 
 This suggests that deliveries in some states are consistently taking longer than others, possibly due to factors such as infrastructure challenges, distance, or logistics inefficiencies.
 
 ### **Geographical Distribution of Orders**:
 
-The "**Total Orders by State**" shows that **São Paulo (SP)** has the highest number of orders with **40.5K** orders, followed by **Minas Gerais (MG)** with **12.35K** and **Rio de Janeiro (RJ)** with **11.36K**.
+São Paulo (SP) has the highest number of orders with 40.5K orders, followed by Minas Gerais (MG) with 12.35K and Rio de Janeiro (RJ) with 11.36K.
 
 These states are major consumer hubs in Brazil, explaining their high order counts. Understanding this distribution helps in focusing operational resources in key markets.
 
@@ -222,4 +222,40 @@ This suggests that high-value orders are more likely to utilize installment plan
 - Offer incentives for customers using boleto to diversify payment methods.
 
 ## 5. Customer Satisfaction
-![image](Image/Customer_Satisfaction.png)
+
+![image](Image/Customer_Satisfaction.jpg)
+
+
+### Customer Satisfaction and Delivery Timeliness:
+
+The average customer rating is 4.02, indicating a high level of overall customer satisfaction, with 57.08K orders receiving 5-star ratings. However, a significant number of 1-star reviews indicate room for improvement. Late orders, particularly those with 1-star ratings, show that delivery timeliness directly impacts customer satisfaction, emphasizing the need for better delivery efficiency.
+
+### Analysis of Orders and Reviews by Name:
+
+Categories like health & beauty and sports & leisure receive a large number of orders and good reviews, whereas categories like books and cool & games have fewer orders and tend to receive lower ratings. This suggests that improving product quality in these categories could be beneficial.
+
+### Top 5 States with Lowest Average Scores::
+
+Massachusetts and Alabama have the lowest scores, indicating that customer service and product quality may need improvement in these areas to increase customer satisfaction.
+
+### Insight:
+
+- Although the average rating is quite high, late orders still significantly affect customer satisfaction, especially those with low ratings. 
+
+- States with lower ratings need improvement strategies, such as optimizing the delivery process, reducing the number of late orders.
+
+# Conclusion
+
+This analysis of the Brazilian E-Commerce dataset highlights key insights and areas for improvement in the marketplace between 2016 and 2018.
+
+**Performance and Customer Engagement:** While the average review score is 4.02, indicating high satisfaction, the significant number of late orders and low ratings suggest that improving delivery timeliness and product quality is necessary.
+
+**Geographical Insights:** São Paulo and Rio de Janeiro lead in order volume, while less populated states face logistical challenges, requiring targeted strategies to improve service in those regions.
+
+**Product Trends**: Home goods and personal care categories like Bed, Bath & Table, and Health & Beauty are top sellers, and capitalizing on seasonal sales and targeted marketing can drive further growth.
+
+**Sales and Delivery Trends:** The sales growth from 2017 to 2018 is strong, but late order spikes indicate a need for better logistics, especially during peak periods.
+
+**Payment Preferences:** Credit cards dominate payment methods, with most customers opting for single payments. Encouraging installment plans for higher-value transactions could balance customer preferences and boost sales.
+
+**Customer Satisfaction:** To increase customer satisfaction, addressing delivery delays and optimizing service in low-rated states is crucial.
