@@ -168,8 +168,58 @@ The **longer delivery times** in some states suggest potential areas for improve
 **São Paulo**, being the highest in order volume, could be **a key focus** for improving **customer experience** and addressing **late deliveries**.
 
 ## 4. Customer Transaction
+
 ![image](Image/Customer_Transaction.png)
 
+### **Payment Type**:
+
+- Credit card is the most popular payment method, with 77K orders.
+
+- Boleto ranks second, with 20K orders.
+
+- Less frequently used methods include voucher (4K orders) and debit card (2K orders).
+
+This indicates that customers primarily prefer credit card payments over other methods.
+
+### **Proportion of Orders by Installment Plan**:
+
+- 48.84% of orders (79.99K) were paid in full with a single payment (no installment).
+
+- 2 installments (17.88K - 10.92%).
+
+- 3 installments (15.73K - 9.6%).
+
+- The proportion of orders decreases as the number of installments increases.
+
+Single payments dominate, indicating that most customers prefer to pay directly without using installment plans.
+
+### **Distribution of Orders by Payment Type and Installment Plan**:
+
+- Credit card is the only method used for multiple installment plans (ranging from 1 to 11 installments).
+
+- Boleto, voucher, and debit card are mostly used for single payments.
+
+This demonstrates the flexibility of credit cards in supporting installment plans.
+
+### **Average Payment Value by Installment Plan**:
+
+- The highest average payment value (514) is observed in orders with 10 installments.
+
+- For plans with 1 to 9 installments, the average payment value ranges from 157 to 330.
+
+This suggests that high-value orders are more likely to utilize installment plans with more payments.
+
+### **Insight**:
+
+**Primary Payment Method:** Credit cards are the preferred choice due to their flexibility with installment plans, whereas boleto and voucher are primarily used for single payments.
+
+**Installment Plans:** Most customers opt for single payments, but high-value transactions tend to favor longer installment plans, especially those with 10 payments.
+
+**Improvement Strategy:**
+
+- Encourage the use of installment plans for high-value transactions via methods like voucher or debit card.
+
+- Offer incentives for customers using boleto to diversify payment methods.
 
 ## 5. Customer Satisfaction
 ![image](Image/Customer_Satisfaction.png)
