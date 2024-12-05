@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/676e1386-576d-466c-917f-899a671cb294)#  E-commerce Company
+#  E-commerce Company
 ## Introduction
 In this project, I am analyzing the **Brazilian E-Commerce dataset**, generously provided by **Olist**, the largest department store in Brazilian marketplaces. Olist connects small businesses across Brazil with sales channels, allowing them to sell their products through the **Olist Store** and ship directly to customers using **Olist logistics partners**. The dataset contains information on **100k orders** made between **2016 and 2018** at multiple marketplaces in Brazil.
 
